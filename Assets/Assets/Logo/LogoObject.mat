@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LogoObject
+  m_Shader: {fileID: 4800000, guid: 0e786abe0f7ed41168a0a94a252c52ac, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BlendOffset: 0.627
+    - _BlendPostPower: 1
+    - _BlendPower: 10
+    - _BlendScale: 2
+    - _BlendTime: 4.55
+    - _BluePostPower: 2.88
+    - _BluePower: 2.18
+    - _BlueScale: 2
+    - _BlueTime: 4
+    - _BlueVertex: 0.08
+    - _Intensity: 2
+    - _OrangePostPower: 1.91
+    - _OrangePower: 1.86
+    - _OrangeScale: 2
+    - _OrangeTime: 4
+    - _OrangeVertex: 0.1
+    - _VertexPower: 1.21
+    m_Colors:
+    - _Blue0: {r: 0.79607844, g: 0.8901961, b: 0.8901961, a: 1}
+    - _Blue1: {r: 0, g: 0.46371073, b: 0.6886792, a: 1}
+    - _Orange0: {r: 1, g: 0.8235294, b: 0.3882353, a: 1}
+    - _Orange1: {r: 1, g: 0.3254902, b: 0.09803922, a: 1}
+  m_BuildTextureStacks: []
